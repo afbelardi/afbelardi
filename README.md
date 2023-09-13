@@ -9,7 +9,7 @@ Former Genius at Apple for 6 years with a passion for technology since a young a
 *   🌍  I'm based in St. Petersburg, FL
 *   🖥️  See my portfolio at [Portfolio](http://afbelardicode.com)
 *   ✉️  You can contact me at [afbelardicode@gmail.com](mailto:afbelardicode@gmail.com)
-*   🧠  I'm learning web3 technologies as well as diving deeper into front-end development
+*   🧠  I'm learning shopify as well as diving deeper into front-end development
 *   🤝  I'm open to collaborating on anything cool and interesting!
 
    ### Skills 
